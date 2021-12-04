@@ -1,8 +1,8 @@
 import { Box, Button, Stack } from "@mui/material";
 import React, { useState } from "react";
-import Chat from "./tab/Chat";
-import Gift from "./tab/Gift";
-import Member from "./tab/Member";
+import Chat from "./tab/chat";
+import Gift from "./tab/gift";
+import Member from "./tab/member";
 import More from "./tab/more";
 import SettingsIcon from '@mui/icons-material/Settings';
 
